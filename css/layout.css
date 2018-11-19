@@ -24,4 +24,19 @@
 
 /* Positioning Classes */
 
+.shadow-left {
+    display: inline-block;
+    width: 65%;
+    vertical-align: top;
+}
 
+.shadow-side {
+    display: inline-block;
+    width: 30%;
+    margin-left: 4%;
+}
+
+.shadow-product {
+    display: inline-block;
+    width: 30%;
+}
