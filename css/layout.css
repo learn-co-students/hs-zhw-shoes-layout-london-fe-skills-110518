@@ -24,4 +24,12 @@
 
 /* Positioning Classes */
 
+.column { 
+  width: 32%;
+  display: inline-block;
+}
+
+#medium {
+  width: 204%;}
+
 
