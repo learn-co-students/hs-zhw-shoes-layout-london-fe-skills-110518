@@ -23,5 +23,21 @@
 }
 
 /* Positioning Classes */
+.column {
+  width:30%;
+  display:inline-block;
+  margin:10px;
+}
+
+
+#summergrass {
+  width:63%;
+}
+#shoe-archive {
+  float:right;
+  width: 32%;
+  margin-right:15px;
+}
+
 
 
