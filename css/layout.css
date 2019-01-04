@@ -24,4 +24,30 @@
 
 /* Positioning Classes */
 
+.img1 {
+  column-count: 1;
+  display: block;
+  border: 5px;
 
+}
+
+.shoe {
+  display: block;
+  column-count: 1;
+  border: 5px;
+  float: right;
+}
+
+.img2 {
+  column-count: 3;
+  column-span: all;
+  column-gap: 40px;
+  border: 5px;
+  
+}
+
+.footer {column-count: 3;
+  column-span: all;
+  column-rule: 1px solid lightgrey;
+
+}
