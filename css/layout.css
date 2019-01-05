@@ -9,6 +9,36 @@
   -moz-box-sizing: border-box;
 }
 
+.column {
+  float: left;
+  width: 100%;
+}
+
+#summergrass {
+  width: 65.64%;
+}
+
+#archive {
+  width: 31.75%;
+  display: inline;
+  margin: 0px 0px 20px 25px;
+  padding: 18px;
+}
+
+.two {
+  width: 31.7%;
+  margin: 0px 23px 0px 0px;
+}
+
+.last {
+  width: 31.7%;
+}
+
+.footer {
+  width: 33.3%;
+  float: left;
+  padding: 10px;
+}
 .clearfix:after {
   content: ".";
   display: block;
