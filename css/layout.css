@@ -9,6 +9,24 @@
   -moz-box-sizing: border-box;
 }
 
+section.shadow1 {
+  float:left;
+  width:65%;
+  margin: 1%;
+}
+
+section.shadow2 {
+  float:left;
+  width:31%;
+  margin: 1%
+}
+
+section.shadowlist {
+  width: 31%;
+  float:left;
+  margin: 1%
+}
+
 .clearfix:after {
   content: ".";
   display: block;
@@ -16,6 +34,11 @@
   visibility: hidden;
   height: 0;
   line-height: 0;
+}
+
+.border_right {
+  float: left;
+  margin-right: 20%;
 }
 
 .clear {
